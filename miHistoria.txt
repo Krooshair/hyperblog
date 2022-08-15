@@ -6,3 +6,5 @@ Empeze estudiando en un instituto llamado SENATI, en Lima-Peru.
 
 Escogi la carrera de Desarrollo de Software y dentro de ella fui conociendo
 todo sobre la programacion, empezando por Python.
+
+En el segundo semestre conoci lo que es html y css, y un poco en el back end con php.
