@@ -1,3 +1,8 @@
 Mi historia de como empeze en la programacion.
 
-Soy Fabian, tengo 19 años y mi gran sueño es ser un programador experto.
+Soy Fabian, tengo 19 años y mi gran sueño es ser un programador expert.
+
+Empeze estudiando en un instituto llamado SENATI, en Lima-Peru.
+
+Escogi la carrera de Desarrollo de Software y dentro de ella fui conociendo
+todo sobre la programacion, empezando por Python.
