@@ -3,7 +3,7 @@ Un blog increíble para las practicas de git y github
 >Proyecto de ejemplo que use para practicar git y github, usando comandos push, pull, status, commit, etc. Aprendiendo para poder contar con una habilidad mas dentro de mi CV y poder entrar a la industria de la programación.
 > - Fabian
 
-##Todo lo que aprendi:
+## Todo lo que aprendi:
 * Git innit para iniciar un proyecto dentro de git.
 * Touch para crear archivos .txt, .html, etc.
 * Code para abrir el Visual Studio Code.
